@@ -19,13 +19,13 @@
 #### :computer:Мои проекты
 1. [REST API чата](https://github.com/elvolt/job4j_chat)
 - В проекте реализован REST API чата с комнатами.
-- Spring (Boot, Data JPA, Web, Security (JWT)), PostgresSQL.
+- Spring (Boot, Data JPA, Web, Security (JWT)), PostgreSQL.
 2. [Форум](https://github.com/elvolt/job4j_forum)
 - Классический форум развернутый на Heroku.
-- Spring (Boot, Data JPA, Security, Web, Test), Liquibase, PostgresSQL, JUnit, Mockito.
+- Spring (Boot, Data JPA, Security, Web, Test), Liquibase, PostgreSQL, JUnit, Mockito.
 3. [Car Accident](https://github.com/elvolt/job4j_car_accident)
 - Приложение для регистрации автомобильных правонарушений
-- Spring (MVC, Data, Security), jsp, Bootstrap, PostgreSQL
+- Spring (MVC, Data, Security), JSP, Bootstrap, PostgreSQL
 4. [TODO List](https://github.com/elvolt/job4j_todo)
 - Приложение  для ведения списка задач c авторизацией и регистрацией
 - Servlets, Hibernate, PostgreSQL, Bootstrap, JS
@@ -34,7 +34,7 @@
 - Servlets, JSP, JDBC/PostgreSQL, Bootstrap, JS, JUnit/Mockito
 6. [Парсер вакансий](https://github.com/elvolt/job4j_grabber)
 - Парсер вакансий Java для сайта sql.ru
-- Quartz-scheduler, JSOUP, JDBC/PostgreSQL, JUnit
+- Quartz-scheduler, jsoup, JDBC/PostgreSQL, JUnit
 
 <!--
 **elvolt/elvolt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
