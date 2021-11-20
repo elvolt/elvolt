@@ -1,17 +1,21 @@
-### Привет!👋 Меня зовут Павел. Добро пожаловать в мой репозиторий!:v: 
+### Добро пожаловать!
 
 #### Обо мне
-Я Java разработчик.
+- Java разработчик
+- Опыт разработки - 1 год
 
-##### Используемые технологии:
+#### Основные используемые технологии:
 
-![Java](https://img.shields.io/badge/Java-%3E%3D%208-orange) 
-![Spring](https://img.shields.io/badge/Spring-%3E%3D%205.0-green)
-![Hibernate](https://img.shields.io/badge/Hibernate-%3E%3D%205.0-yellow)
-![Maven](https://img.shields.io/badge/Maven-3-red)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%3E%3D%209-blue)
-![Travis](https://img.shields.io/badge/Travis-CI-succes)
-![Javascript](https://camo.githubusercontent.com/6f6990a311bb84dff8a426a5686eafc1986184c3b1066580fe36a9b0a0377d26/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d3238324333343f6c6f676f3d6a617661736372697074266c6f676f436f6c6f723d463744463145)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-Spring-informational?style=flat&logo=Spring&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-Hibernate-informational?style=flat&logo=Hibernate&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tool-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tool-Apache%20Maven-informational?style=flat&logo=Apache%20Maven&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/VCS-Git-informational?style=flat&logo=Git&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Web%20Service-Travis-informational?style=flat&logo=Travis&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Web%20Service-Codecov-informational?style=flat&logo=Codecov&logoColor=white&color=2bbc8a)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elvolt&layout=compact)](https://github.com/elvolt/github-readme-stats)
 ![Github stats](https://github-readme-stats.vercel.app/api?username=elvolt&hide=stars,prs,issues,contribs)
