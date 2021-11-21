@@ -23,7 +23,7 @@
 #### :computer:Мои проекты
 1. [REST API чата](https://github.com/elvolt/job4j_chat)
 - В проекте реализован REST API чата с комнатами.
-- Spring (Boot, Data JPA, Web, Security (JWT)), PostgreSQL.
+- Spring (Boot, Data JPA, Web, Security (JWT)), PostgreSQL, Docker.
 2. [Форум](https://github.com/elvolt/job4j_forum)
 - Классический форум развернутый на Heroku.
 - Spring (Boot, Data JPA, Security, Web, Test), Liquibase, PostgreSQL, JUnit, Mockito.
